@@ -7,7 +7,7 @@ MySQLとSpring Bootを使用した簡単な検索ができるWebアプリケー�
 
 下記の環境で開発および動作確認を行いました。
 
-* Windows7 (64bit)
+* Windows10 (64bit)
 * Java 1.8.0_60
 * Spring Boot 1.2.5
  * thymeleaf 2.1.4
